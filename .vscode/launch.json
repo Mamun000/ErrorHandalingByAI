@@ -8,7 +8,7 @@
       "mainClass": "com.example.App",
       "projectName": "Error",
       "env": {
-        "GEMINI_API_KEY": "AIzaSyAIPW1859J0PokHbl_8KPOLahw2SuPDr6Y"
+        "GEMINI_API_KEY": "Use your api key"
       }
     }
   ]
