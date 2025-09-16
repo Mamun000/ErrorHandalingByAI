@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run App",
+      "request": "launch",
+      "mainClass": "com.example.App",
+      "projectName": "Error",
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyAIPW1859J0PokHbl_8KPOLahw2SuPDr6Y"
+      }
+    }
+  ]
+}
